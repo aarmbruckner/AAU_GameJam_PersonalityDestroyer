@@ -1,0 +1,4 @@
+*.meta
+*.log
+.Temp/
+.metadata/
