@@ -3,3 +3,6 @@
 .Temp/
 .metadata/
 AAU_GameJam_PersonalityDestroyer/Temp/UnityLockfile
+*.bin
+*.info
+AAU_GameJam_PersonalityDestroyer/Library/metadata/
