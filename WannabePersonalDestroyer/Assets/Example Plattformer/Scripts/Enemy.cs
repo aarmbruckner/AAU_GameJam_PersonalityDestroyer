@@ -13,7 +13,7 @@ public class Enemy : MonoBehaviour
 	public float deathSpinMax = 100f;           // A value to give the maximum amount of Torque when dying
 
 
-    public int direction = 0;           // direction 0 is left, direction 1 is right
+    public int direction = 1;           // direction 0 is left, direction 1 is right
 
     private SpriteRenderer ren;			// Reference to the sprite renderer.
 	private Transform frontCheck;		// Reference to the position of the gameobject used for checking if something is in front.
@@ -49,10 +49,12 @@ public class Enemy : MonoBehaviour
         // Set the enemy's velocity to moveSpeed in the x direction.
         float x;
         if (direction == 1)
-             x = transform.localScale.x * moveSpeed;
-        else {
+            x = transform.localScale.x * -moveSpeed;
+        else
+        {
             x = transform.localScale.x * moveSpeed;
         }
+        Debug.Log("move speed: "+x+" direction "+ direction);
 
         GetComponent<Rigidbody2D>().velocity = new Vector2(x, GetComponent<Rigidbody2D>().velocity.y);	
 
