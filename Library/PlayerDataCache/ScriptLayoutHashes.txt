@@ -1,0 +1,52 @@
+WebGL
+PlayerPath?
+C:/Users/Wilfried/Desktop/PersonalityDestroyerWeb
+SceneListBegin?
+Assets/Example Plattformer/Scenes/Intro.unity
+Assets/Example Plattformer/Scenes/Level 100.unity
+Assets/Example Plattformer/Scenes/Win.unity
+Assets/Example Plattformer/Scenes/Level 23.unity
+Assets/Example Plattformer/Scenes/Win 1.unity
+Assets/Example Plattformer/Scenes/Level32.unity
+Assets/Example Plattformer/Scenes/Win 2.unity
+Assets/Example Plattformer/Scenes/Lose.unity
+SceneListEnd?
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.running
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Pauser
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Win2
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Win
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GameOver
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Win1
+183ec198b619bfebb498a2b20f91e8c6 Assembly-CSharp.dll:.PickupSpawner
+26b78f3fc78f2746c2f1ebe43d0b46fa Assembly-CSharp.dll:.IntroVideo
+88778db956713df425c241753bdf1583 Assembly-CSharp.dll:.EnemyHateSpeech
+a368159e58941fd984a850e25d15ae44 Assembly-CSharp.dll:.Destroyer
+322cb40e1e282f28af980cbef7922a90 UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
+dc07d7ad69b399a46e92c483bf1c04ca UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsTracker
+7c6fb094f5246b8f18656fe8bd7cfc58 Assembly-CSharp.dll:.Score
+ae289d5889b6425001e5b425e6e39478 Assembly-CSharp.dll:.Remover
+a927faa21db41225e16c0528608b5292 Assembly-CSharp.dll:.Gun
+ed3f6bd27701553db1904f1c59b3180a Assembly-CSharp.dll:.BackgroundPropSpawner
+51df51ce5bc6c5914f837b8dad6925cb Assembly-CSharp.dll:.FollowPlayer
+595dd0303bbae4a7e1469d1d879cf4b2 Assembly-CSharp.dll:.PlayerHealth
+88778db956713df425c241753bdf1583 Assembly-CSharp.dll:.Enemy
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
+3a7ea88693e7dbc33727514ecdeb3444 Assembly-CSharp.dll:.LayBombs
+55d46e4fc3e0a5a4e10d3c142eb63d50 Assembly-CSharp.dll:.BackgroundParallax
+f8240cebefc54b5c6806cb49ecc2b267 Assembly-CSharp.dll:.BombPickup
+bb8f40f1b9a53c534aba52ce09b4dda9 Assembly-CSharp.dll:.HateSpeechSpawner
+9982fac15dcd9d11232d51b39bedaef0 Assembly-CSharp.dll:.Rocket
+3ea0816047ef7f563a9598d777070659 Assembly-CSharp.dll:.PlayerControl
+88778db956713df425c241753bdf1583 Assembly-CSharp.dll:.FreezeEnemy
+03d43914773b372bf586884f51569660 Assembly-CSharp.dll:.HealthPickup
+bb8f40f1b9a53c534aba52ce09b4dda9 Assembly-CSharp.dll:.Spawner
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.jump
+22b977f2616d6e4b244a6586e1544a8b Assembly-CSharp.dll:.GoalReached
+88778db956713df425c241753bdf1583 Assembly-CSharp.dll:.TrollHeadEnemy
+4fb6ffc66135d3aaff5e51dad3248c13 Assembly-CSharp.dll:.SetParticleSortingLayer
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.HaterEnemy
+c62af37ed01f3eea3ee0fc4725e51dff Assembly-CSharp.dll:.Hide
+5a0cfcdac8963398ab88e7af47fe6659 Assembly-CSharp.dll:.ScoreShadow
+c8c7c1d99415de995189ca6f34903980 Assembly-CSharp.dll:.Bomb
+307d9f491fea791345eb6aa66e84c179 Assembly-CSharp.dll:.CameraFollow
